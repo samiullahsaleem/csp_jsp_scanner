@@ -65,5 +65,5 @@ This tool is specifically designed for teams working on JSP-based projects. It i
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/jsp-security-checker.git
-   cd jsp-security-checker
+   git clone [https://github.com/samiullahsaleem/csp_jsp_scanner.git]
+   cd csp_jsp_scanner
